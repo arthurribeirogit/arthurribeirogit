@@ -21,4 +21,6 @@
  
   ![Snake animation](https://github.com/arthurribeirogit/arthurribeirogit/blob/output/github-contribution-grid-snake.svg)
 
+  ![readme](https://github-readme-stats.vercel.app/api/pin/?username=arthurribeirogit&repo=arthurribeirogit&theme=react)](https://github.com/arthurribeirogit/arthurribeirogit)
+
 </div>
